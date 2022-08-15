@@ -1,0 +1,3 @@
+com\mc\fink\wordCount\BatchWordCount.class
+com\mc\fink\wordCount\StreamWordCount.class
+com\mc\fink\wordCount\BoundedStreamWordCount.class
